@@ -1,0 +1,4 @@
+source_path,destination_url
+/nested/test,https://www.google.com/
+/fb-example,https://www.facebook.com/
+/{proxy+},https://github.com/jastabile

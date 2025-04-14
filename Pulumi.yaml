@@ -1,0 +1,6 @@
+name: examples-redirect
+runtime: nodejs
+description: 
+secretsProvider: plaintext
+backend:
+  url: s3://jastabile-bucket-pulumi-states

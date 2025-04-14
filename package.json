@@ -1,0 +1,13 @@
+{
+  "name": "example-redirect-api",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "^16",
+    "typescript": "^4.0.0"
+  },
+  "dependencies": {
+    "@pulumi/pulumi": "^3.0.0",
+    "@pulumi/aws": "^5.0.0",
+    "csv-parse": "^5.0.0"
+  }
+} 
